@@ -23,7 +23,7 @@ body {
     display: grid;
     place-items: center;
     background-color: var(--verydarkblue);
-    color: var(--white)
+    color: var(--white);
 }
 
 main {
