@@ -34,5 +34,19 @@ main {
 }
 
 .card_image {
-    width: 50%;
+    height: 100%;
+    width: 100%;
+}
+
+.purple_wrap {
+    position: relative;
+    width: 100%;
+}
+
+.purple_wrap:before {
+    content: "";
+    background: hsla(277, 64%, 61%, 0.5);
+    position: absolute;
+    height: 100%;
+    width: 100%;
 }
