@@ -27,10 +27,14 @@ body {
 }
 
 main {
-    width: 70%;
+    width: 80%;
     background-color: var(--darkdesaturatedblue);
     display: flex;
     flex-direction: row-reverse;
+}
+
+.card_details {
+    width: 100%;
 }
 
 .card_image {
