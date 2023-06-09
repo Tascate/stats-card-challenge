@@ -39,20 +39,14 @@ h1, h2 {
     font-family: var(--fontinter);
 }
 
-p {
-    font-family: var(--fontLexendDeca);
-    color: var(--transparentwhitemain);
-    
-}
+p {font-family: var(--fontLexendDeca);}
 
 mark.accent {
     color: var(--softviolet);
     background: none;
 }
 
-h1.card_heading {
-    line-height: 2.5rem;
-}
+h1.card_heading {line-height: 2.5rem}
 
 p.card_description {
     color: var(--transparentwhitemain);
@@ -81,11 +75,11 @@ p.stat_title {
 
 .card_stats {
     width: 100%;
+    padding-top: 1rem;
+    padding-right: 1rem;
     display:flex;
     flex-direction: row;
     justify-content: space-between;
-    padding-top: 1rem;
-    padding-right: 1rem;
 }
 
 .stats_preview {
