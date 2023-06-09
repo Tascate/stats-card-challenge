@@ -49,7 +49,8 @@ main {
 
 .purple_wrap:before {
     content: "";
-    background: hsla(277, 64%, 61%, 0.5);
+    background: hsla(277, 64%, 61%, 0.55);
+    filter: brightness(55%) saturate(145%) contrast(170%);
     position: absolute;
     height: 100%;
     width: 100%;
