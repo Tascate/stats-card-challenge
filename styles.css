@@ -27,5 +27,12 @@ body {
 }
 
 main {
+    width: 70%;
     background-color: var(--darkdesaturatedblue);
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.card_image {
+    width: 50%;
 }
