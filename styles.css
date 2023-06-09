@@ -33,6 +33,29 @@ main {
     flex-direction: row-reverse;
 }
 
+h1, h2 {
+    font-family: var(--fontinter);
+}
+
+p {
+    font-family: var(--fontLexendDeca);
+    color: var(--transparentwhitemain);
+    font-size: 15px;
+}
+
+mark.accent {
+    color: var(--softviolet);
+    background: none;
+}
+
+p.card_description {
+    color: var(--transparentwhitemain);
+}
+
+p.stat_title {
+    color: var(--transparentwhitestat)
+}
+
 .card_details {
     width: 100%;
 }
