@@ -145,6 +145,7 @@ p.stat_title {
     .card_image {
         border-top-left-radius: 8px;
         border-bottom-right-radius: 8px;
+        content: url(./images/image-header-mobile.jpg)
     }
     .purple_wrap:before {
         border-top-left-radius: 8px;
