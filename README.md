@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://tascate.github.io/stats-card-challenge/](https://tascate.github.io/stats-card-challenge/)
+- Live Site URL: [https://tolasc.github.io/stats-card-challenge/](https://tolasc.github.io/stats-card-challenge/)
 
 ## My process
 
